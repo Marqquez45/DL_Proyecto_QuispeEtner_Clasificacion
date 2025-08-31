@@ -47,8 +47,7 @@ El notebook genera automáticamente:
 
 ## 🚀 Cómo replicar los resultados
 1. Ejecutar el notebook hasta la sección de **Evaluación**.  
-2. Las métricas y gráficas se guardarán automáticamente en la carpeta `/results`.  
-3. Incluir estos resultados en el informe PDF como tablas y figuras.  
+2. Las métricas y gráficas se guardarán automáticamente en la carpeta `/results`.   
 
 ---
 
